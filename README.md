@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajar Mashum</h1>
-<h3 align="center">Undergraduate Information Systems Student at Gunadarma University | Data Enthusiast</h3>
+<h3 align="center">Freshgraduate Information Systems Student at Gunadarma University | Machine Learning Enthusiast</h3>
 
 ## About me:
-- 📧 I’m currently studying **Information Systems** at **Universitas Gunadarma**   
+- 📧 I’m Freshgraduate student **Information Systems** at **Universitas Gunadarma**   
 - 💬 Ask me about anything  
 - 📫 How to reach me: [fajarmashum20@gmail.com](mailto:fajarmashum20@gmail.com)
 
@@ -11,7 +11,7 @@
 ## 🎓 Education:
 
 ### 1. [Universitas Gunadarma](https://gunadarma.ac.id/)  
-**Bachelor of Information Systems** | Depok | `2022–2026 (Expected`
+**Bachelor of Information Systems** | Depok | `2022–2026`
 
 - **Relevant Courses:**  
   Pemodelan & Visualisasi Data, Pengantar Sains Data, Konsep Data Mining,
